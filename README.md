@@ -2,7 +2,7 @@
 
 :star: **Awarded *Champion* in CSE Project Show 231 at United International University** :star:
 
-> Special thanks and heartfelt gratitude to [Ummay Maria Muna](https://github.com/mariamuna04/) for their unwavering support, invaluable guidance, and constant motivation throughout the project. I am truly grateful for the collaborative journey we shared.
+> **Special thanks and heartfelt gratitude to [Ummay Maria Muna](https://github.com/mariamuna04/) for their unwavering support, invaluable guidance, and constant motivation throughout the project. I am truly grateful for the collaborative journey we shared.**
 
 ###### A simple efficient land management website that can be used to manage land simply, flexibly and securely.  This website does not use any framework; just uses simple PHP, JavaScript, HTML and Tailwind CSS.
 
@@ -73,4 +73,3 @@ committed to providing high-quality service and helping our clients achieve thei
 
 
 ######  Project Finished on Tue May 2 2023 12:37:00 GMT+0600 (Bangladesh Standard Time)
-######  Status: Not Maintained

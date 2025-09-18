@@ -2,9 +2,7 @@
 
 :star: **Awarded *Champion* in CSE Project Show 231 at United International University** :star:
 
-> **Special thanks and heartfelt gratitude to [Ummay Maria Muna](https://github.com/mariamuna04/) for her unwavering support, invaluable guidance, and constant motivation throughout the project. I am truly grateful for the collaborative journey we shared.**
-
-###### A simple efficient land management website that can be used to manage land simply, flexibly and securely.  This website does not use any framework; just uses simple PHP, JavaScript, HTML and Tailwind CSS.
+###### A simple, efficient land management website that can be used to manage land simply, flexibly and securely.  This website does not use any framework; it just uses simple PHP, JavaScript, HTML and Tailwind CSS.
 
 
 ### Introduction
@@ -21,17 +19,17 @@ committed to providing high-quality service and helping our clients achieve thei
 
 - Viewing the available land according to the preferences
 
-- Displaying list of land on sale
+- Displaying a list of land for sale
 
-- No broker or middle-man rather direct deal with the group
+- No broker or middleman, rather a  direct deal with the group
 
 - Booking and cancellation convenience
 
-- Distributing the land among the successors with respect of division index for each successor
+- Distributing the land among the successors with respect to the division index for each successor
 
 - Flexibility with the payment and advantage
 
-- No direct deal with governmental organization
+- No direct deal with a governmental organization
 - *and so on*...
 
 
@@ -44,7 +42,7 @@ committed to providing high-quality service and helping our clients achieve thei
 ---
 
 ### Instruction 
-1. Clone repository and open with PhpStorm
+1. Clone the repository and open it with PhpStorm
 
 2. Create a database and name it `landsphere` using XAMPP or similar software
 
@@ -62,12 +60,12 @@ committed to providing high-quality service and helping our clients achieve thei
 
     > You should see `/dist/output.css` in root folder
 
-6. Run `/src/index.php` using PhpStorm’s built in web server. If not configured then configure it with `PHP v8.1.x+`
+6. Run `/src/index.php` using PhpStorm’s built-in web server. If not configured, then configure it with `PHP v8.1.x+`
 
 ---
 > **[**NOTE] [IMPORTANT]**
 >
-> We are advising to run this project with PhpStorm. Using VSCode with PHP CLI tools are not guaranteed to work because of some relative path issues as tested on 3rd May, 2023.
+> We recommend running this project with PhpStorm. Using VSCode with PHP CLI tools is not guaranteed to work due to relative path issues, as tested on 3rd May, 2023.
 
 ---
 
